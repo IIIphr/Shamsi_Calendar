@@ -37,7 +37,7 @@
             "App\\": "app/",
             "Database\\Factories\\": "database/factories/",
             "Database\\Seeders\\": "database/seeders/",
-            "Sepehr\\Shamsi_Calendar\\": "packages/Sepehr/Shamsi_Calendar/"
+            "sepehr\\shamsi_salendar\\": "packages/Sepehr/Shamsi_Calendar/"
         }
     },
     "autoload-dev": {
