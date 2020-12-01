@@ -1,0 +1,11 @@
+{
+    "name": "sepehr/shamsi_calendar",
+    "description": "Shamsi Calendar for laravel",
+    "authors": [
+        {
+            "name": "Sepehr",
+            "email": "62986692+IIIphr@users.noreply.github.com"
+        }
+    ],
+    "require": {}
+}
