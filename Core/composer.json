@@ -36,7 +36,8 @@
         "psr-4": {
             "App\\": "app/",
             "Database\\Factories\\": "database/factories/",
-            "Database\\Seeders\\": "database/seeders/"
+            "Database\\Seeders\\": "database/seeders/",
+            "Sepehr\\Shamsi_Calendar\\": "packages/Sepehr/Shamsi_Calendar/src"
         }
     },
     "autoload-dev": {

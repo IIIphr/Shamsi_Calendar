@@ -165,6 +165,7 @@ return [
         /*
          * Package Service Providers...
          */
+        Sepehr\Shamsi_Calendar\CalendarServiceProvider::class,
 
         /*
          * Application Service Providers...

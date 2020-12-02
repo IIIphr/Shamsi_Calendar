@@ -13,7 +13,7 @@ class CalendarServiceProvider extends ServiceProvider
      */
     public function register()
     {
-        $this->app->make('yoosuf\Calculator\CalendarController');
+        $this->app->make('Sepehr\Shamsi_Calendar\CalendarController');
     }
 
     /**
