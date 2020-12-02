@@ -1,6 +1,6 @@
 <?php
 
-namespace sepehr\Shamsi_Calendar;
+namespace iiiphr\Shamsi_Calendar;
 
 use Illuminate\Http\Request;
 use App\Http\Controllers\Controller;
