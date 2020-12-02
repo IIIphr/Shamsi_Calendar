@@ -1,6 +1,6 @@
 <?php
 
-namespace Sepehr\Shamsi_Calendar;
+namespace IIIphr\Shamsi_Calendar;
 
 use Illuminate\Support\ServiceProvider;
 
@@ -13,7 +13,7 @@ class CalendarServiceProvider extends ServiceProvider
      */
     public function register()
     {
-        $this->app->make('Sepehr\Shamsi_Calendar\CalendarController');
+        $this->app->make('IIIphr\Shamsi_Calendar\CalendarController');
     }
 
     /**
