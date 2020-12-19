@@ -7,5 +7,10 @@
             "email": "62986692+IIIphr@users.noreply.github.com"
         }
     ],
-    "require": {}
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "iiiphr\\shamsi_calendar\\": "src/"
+        }
+    }
 }
